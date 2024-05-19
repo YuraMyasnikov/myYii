@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  },
+  "require": {
+    "str5/test": "1.0.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/str5/test.git"
+    }
+  ]
+}
